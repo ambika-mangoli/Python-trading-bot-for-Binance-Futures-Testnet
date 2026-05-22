@@ -26,7 +26,6 @@ A simple Python CLI trading bot for Binance Futures Testnet.
 
 ## Create Virtual Environment
 
-Then Run
 python -m venv venv
 Activate Environment
 Windows
@@ -46,7 +45,6 @@ Assumptions
 Python 3 is installed
 Internet connection is available
 Binance Testnet API may require verification
-Demo Mode
 
 If API keys are unavailable, the application automatically runs in demo simulation mode.
 
