@@ -1,0 +1,5 @@
+2026-05-22 14:02:18,667 | INFO | Order Request => Symbol: BTCUSDT, Side: BUY, Type: MARKET, Qty: 0.001, Price: None
+2026-05-22 14:02:18,667 | INFO | Demo Response => {'orderId': 'DEMO12345', 'status': 'SIMULATED', 'executedQty': 0.001, 'avgPrice': 'Market Price'}
+2026-05-22 14:02:44,103 | INFO | Order Request => Symbol: BTCUSDT, Side: SELL, Type: LIMIT, Qty: 0.001, Price: 70000.0
+2026-05-22 14:02:44,103 | INFO | Demo Response => {'orderId': 'DEMO12345', 'status': 'SIMULATED', 'executedQty': 0.001, 'avgPrice': 70000.0}
+2026-05-22 14:03:06,632 | ERROR | Invalid side. Use BUY or SELL
