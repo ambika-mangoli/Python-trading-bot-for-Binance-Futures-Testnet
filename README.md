@@ -18,21 +18,7 @@ A simple Python CLI trading bot for Binance Futures Testnet.
 
 # Project Structure
 
-trading_bot/
-│
-├── bot/
-│   ├── __init__.py
-│   ├── client.py
-│   ├── orders.py
-│   ├── validators.py
-│   └── logging_config.py
-│
-├── logs/
-│
-├── cli.py
-├── requirements.txt
-├── README.md
-└── .env
+<img width="219" height="379" alt="Screenshot 2026-05-22 142740" src="https://github.com/user-attachments/assets/ca261f80-8a84-4614-8e20-f0f30dc62b25" />
 
 ---
 
@@ -80,23 +66,9 @@ Press:
 text id="u4m8cx"
 Ctrl + S
 # Example Output
+<img width="377" height="403" alt="Screenshot 2026-05-22 142914" src="https://github.com/user-attachments/assets/f36a982b-2176-45be-b8fd-39fb63229136" />
 
-text
-========== ORDER REQUEST ==========
-Symbol      : BTCUSDT
-Side        : BUY
-Order Type  : MARKET
-Quantity    : 0.001
-===================================
 
-========== ORDER RESPONSE ==========
-Order ID       : DEMO12345
-Status         : SIMULATED
-Executed Qty   : 0.001
-Average Price  : Market Price
-====================================
 
-✅ Order placed successfully
 # Note
-
 Due to Binance Futures Testnet API verification restrictions, the project currently runs in demo simulation mode without live API credentials.
